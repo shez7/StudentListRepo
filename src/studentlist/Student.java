@@ -15,6 +15,8 @@ public class Student {
     private int ID;
     private String dob;
     
+    private int maxHrs;
+    
     public Student()
     {
         name = "Name Not Set";
