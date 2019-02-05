@@ -16,7 +16,7 @@ public class Student {
     private String dob;
     
     private int maxHrs;
-    
+    //default constructor
     public Student()
     {
         name = "Name Not Set";
