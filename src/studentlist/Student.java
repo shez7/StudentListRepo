@@ -60,4 +60,8 @@ public class Student {
     public void setDob(String dob) {
         this.dob = dob;
     }
+    
+    public String toString(){
+        return "Student";
+    }
 }
